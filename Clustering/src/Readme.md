@@ -38,3 +38,39 @@ Save the clustering results to a CSV file.
 ### Evaluate Clusters:
 
 Plot inertia to determine the optimal number of clusters.
+
+# K-Means Clustering on Iris Dataset
+
+This project applies K-Means clustering on the Iris dataset to visualize clusters and determine the optimal number of clusters.
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- pandas
+- matplotlib
+- scikit-learn
+
+## Installation
+
+Install the required libraries:  
+`pip install numpy pandas matplotlib scikit-learn`
+
+## Usage
+
+### Load Data: 
+
+Load the dataset from `test_iris.csv`.
+
+### K-Means Clustering:
+
+- Implement a custom K-Means algorithm.
+- Perform clustering on the dataset.
+
+### Evaluate Clusters:
+
+Plot inertia to determine the optimal number of clusters.
+
+### Save Predictions: 
+
+Save the clustering results to a CSV file.
